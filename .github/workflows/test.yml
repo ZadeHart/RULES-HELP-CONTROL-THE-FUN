@@ -1,4 +1,4 @@
-name: Challende 20 CICD Test
+name: Challenge 20 CICD Test
 
 on:
   pull_request:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: CI and CD using Node 
+      - name: CI and CD using Node ${{ matrix.node-version }}
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}

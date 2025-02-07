@@ -9,7 +9,9 @@ https://github.com/ZadeHart
 
 Please contact me at zadehartpro@gmail.com with any further questions.
 
-https://github.com/ZadeHart/RULSE-HELP-CONTROL-THE-FUN
+https://github.com/ZadeHart/RULES-HELP-CONTROL-THE-FUN
+
+https://rules-help-control-the-fun.onrender.com
 
 ## Description
 
