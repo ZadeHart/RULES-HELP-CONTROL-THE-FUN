@@ -1,7 +1,7 @@
 name: Challende 20 CICD Test
 
 on:
-  pull_requests:
+  pull_request:
     branches:
       - develop
 
