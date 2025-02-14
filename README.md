@@ -17,6 +17,10 @@ https://rules-help-control-the-fun.onrender.com
 
 This application is a quiz to test your knowledge of the Python programing language. It has a built-in Component test to check if the application is running as expected as well as Github Workflows to control integration and deployment.
 
+![alt text](<screenshots/Screenshot 2025-02-12 122723.png>)
+![alt text](<screenshots/Screenshot 2025-02-12 122735.png>)
+![alt text](<screenshots/Screenshot 2025-02-12 122746.png>)
+
 ## Table of Contents (Optional)
 
 - [Questions](#questions)
