@@ -7,7 +7,7 @@ on:
 
 jobs:
   test-runner:
-    runs-on: ubuntu-lataest
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [18.x, 20.x, 22.x]
@@ -21,7 +21,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
 
-      - name: install dependencies
+      - name: Install dependencies
         run: npm ci
         
       - name: Cypress run component tests
