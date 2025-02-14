@@ -9,11 +9,17 @@ https://github.com/ZadeHart
 
 Please contact me at zadehartpro@gmail.com with any further questions.
 
-https://github.com/ZadeHart/RULSE-HELP-CONTROL-THE-FUN
+https://github.com/ZadeHart/RULES-HELP-CONTROL-THE-FUN
+
+https://rules-help-control-the-fun.onrender.com
 
 ## Description
 
 This application is a quiz to test your knowledge of the Python programing language. It has a built-in Component test to check if the application is running as expected as well as Github Workflows to control integration and deployment.
+
+![alt text](<screenshots/Screenshot 2025-02-12 122723.png>)
+![alt text](<screenshots/Screenshot 2025-02-12 122735.png>)
+![alt text](<screenshots/Screenshot 2025-02-12 122746.png>)
 
 ## Table of Contents (Optional)
 
