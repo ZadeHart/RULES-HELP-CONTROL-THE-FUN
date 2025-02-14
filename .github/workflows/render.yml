@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-versions: [18.x, 20.x, 22.x]
+        node-version: [18.x, 20.x, 22.x]
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
@@ -26,6 +26,6 @@ jobs:
       run: npm ci
 
     - name: Render Deploy Action
-      run: curl "$DEPLOY_URL"
+      run: curl "$deploy_url"
       env:
         DEPLOY_URL: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
